@@ -3,3 +3,6 @@ pandas==1.4.2
 numpy==1.22.3
 altair==4.2.0
 streamlit==1.8.1
+pydeck==0.7.1
+click==8.0.4
+psycopg2-binary==2.9.3
